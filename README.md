@@ -17,6 +17,7 @@ Before you try to use SPIF you need to a few things,
 - A version of SPIF (We'll get to that later)
 - Python 3.X (SPIF has only been tested on 3.6, contact me, or open an issue if you have any trouble running SPIF on another version of Python)
 - The image you want to encrypt 
+  
   Now that you have all the dependencies, let's get on to the fun part.
 There are two methods to using SPIF, one is using the CLI, which you might perfer if you have a good knowledge of your OS's shell, and the other is using SPIF's Python module functionality, which may come to you more easily if you have used Pyhton before.
 
