@@ -41,7 +41,7 @@ Elijahs-MacBook:SPIF-image-encryption MrZeus$ ls
 DETF.py		LICENSE		SPIF.log  Face_reveal.png
 README.md	SPIF.py		spif_out.txt
 ```
-There, now we have the encrypted image file (`spif_out.txt`). Now let's decrypt the image file (`spif_out.txt`):
+  There, now we have the encrypted image file (`spif_out.txt`). Now let's decrypt the image file (`spif_out.txt`):
 ```
 Elijahs-MacBook:SPIF-image-encryption MrZeus$ python3.6 SPIF.py decrypt spif_out.txt DETF.py 
 Starting SPIF Pre0.2(https://github.com/MrZeusGaming/SPIF-image-encryption) at 2018-07-14 15:51:37
@@ -52,9 +52,10 @@ The decryption progress has finished.
 
 Elijahs-MacBook:SPIF-image-encryption MrZeus$ 
 ```
-And, that's how to use SPIF's CLI.
+  And, that's how to use SPIF's CLI.
 
 <h2>Method one</h2>
+
 `COMING SOON`
 
 [0]: https://en.wikipedia.org/wiki/Calvin_and_Hobbes#Calvin's_roles
