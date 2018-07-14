@@ -56,6 +56,7 @@ And, that's how to use SPIF's CLI.
 
 <h2>Method one</h2>
 `COMING SOON`
+
 [0]: https://en.wikipedia.org/wiki/Calvin_and_Hobbes#Calvin's_roles
 [1]: https://en.wikipedia.org/wiki/Bill_Watterson
 [2]: https://en.wikipedia.org/wiki/Calvin_and_Hobbes
