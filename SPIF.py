@@ -452,7 +452,7 @@ if __name__ == "__main__":
 #Declare some global vars:
 spif_datetime = datetime.now()
 #Make a variable to hold the version:
-spif_version = "Pre0.2"
+spif_version = "V1.0"
 #Highest encryption/decryption level var:
 highest_e_level = 1
 #Highest multiprocessed encryption/decryption level:

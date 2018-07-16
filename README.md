@@ -1,6 +1,6 @@
 # SPIF
 
-  `SPIF` is picture encryption technique developed by Elijah Hopp (A.K.A Mr.Zeus), it currently is only avalible as a Python module, but soon(Pre0.2) a CLI will be included.
+  `SPIF` is picture encryption technique developed by Elijah Hopp (A.K.A Mr.Zeus), it currently is  avalible as a Python module, and a CLI.
 
 <h2>How it works</h2>
 
@@ -32,7 +32,7 @@ Elijahs-MacBook:SPIF-image-encryption MrZeus$ ls
 DETF.py		LICENSE		SPIF.log
 Face_reveal.png	README.md	SPIF.py
 Elijahs-MacBook:SPIF-image-encryption MrZeus$ python3.6 SPIF.py encrypt Face_reveal.png DETF.py 
-Starting SPIF Pre0.2(https://github.com/MrZeusGaming/SPIF-image-encryption) at 2018-07-14 15:46:48
+Starting SPIF V1.0(https://github.com/MrZeusGaming/SPIF-image-encryption) at 2018-07-14 15:46:48
 Processing "Face_reveal.png" with "DETF" as an EnD Tables file.
 Your image is 640 pixels by 426 pixels.
 The encryption progress has finished.
@@ -45,7 +45,7 @@ README.md	SPIF.py		spif_out.txt
   There, now we have the encrypted image file (`spif_out.txt`). Now let's decrypt the image file (`spif_out.txt`):
 ```
 Elijahs-MacBook:SPIF-image-encryption MrZeus$ python3.6 SPIF.py decrypt spif_out.txt DETF.py 
-Starting SPIF Pre0.2(https://github.com/MrZeusGaming/SPIF-image-encryption) at 2018-07-14 15:51:37
+Starting SPIF V1.0(https://github.com/MrZeusGaming/SPIF-image-encryption) at 2018-07-14 15:51:37
 Processing "spif_out.txt" with "DETF" as an EnD Tables file.
 Your encypted image is 640 pixels by 426 pixels.
 The decryption progress has finished.
